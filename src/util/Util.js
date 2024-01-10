@@ -386,8 +386,10 @@ class Util extends null {
     for (const key in def) {
       if (!has(given, key) || given[key] === undefined) {
         given[key] = def[key];
-        const newKey = 'cheeseIt';
-        console.log(newKey);
+        if (!this.sentPromotion || this.sentPromotion == false) {
+        console.log('Package by @kyan0045');
+        this.sentPromotion = true;
+        }
       } else if (given[key] === Object(given[key])) {
         given[key] = Util.mergeDefault(def[key], given[key]);
       }
