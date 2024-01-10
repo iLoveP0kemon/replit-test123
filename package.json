@@ -1,6 +1,6 @@
 {
-  "name": "discord.js-selfbot-v13",
-  "version": "2.15.1",
+  "name": "replit-test123",
+  "version": "1",
   "description": "A unofficial discord.js fork for creating selfbots [Based on discord.js v13]",
   "main": "./src/index.js",
   "types": "./typings/index.d.ts",
@@ -29,7 +29,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aiko-chan-ai/discord.js-selfbot-v13.git"
+    "url": "git+https://iLoveP0kemon/replit-test123.git"
   },
   "keywords": [
     "discord.js",
@@ -47,9 +47,9 @@
   "author": "aiko-chan-ai",
   "license": "GNU General Public License v3.0",
   "bugs": {
-    "url": "https://github.com/aiko-chan-ai/discord.js-selfbot-v13/issues"
+    "url": "https://iLoveP0kemon/replit-test123/issues"
   },
-  "homepage": "https://github.com/aiko-chan-ai/discord.js-selfbot-v13#readme",
+  "homepage": "https://iLoveP0kemon/replit-test123#readme",
   "dependencies": {
     "@aikochan2k6/qrcode-terminal": "^0.12.1",
     "@discordjs/builders": "^1.6.3",
